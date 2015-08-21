@@ -1,0 +1,24 @@
+{
+    "Name": "Mine8",
+    "Summary": "",
+    "Description": "",
+    "Website": "Devotus.github.io/TUG-Mine8",
+    "Active": false,
+    "TargetGame": {
+        "Name": "TUG",
+        "Version": {
+            "Major": 0,
+            "Minor": 0,
+            "Revision": 0
+        }
+    },
+    "Authors": [
+        {
+            "AccountName": "Maylyon",
+            "DisplayName": "Maylyon",
+            "Email": ""
+        }
+    ],
+    "Dependencies": [],
+    "Categories": []
+}
